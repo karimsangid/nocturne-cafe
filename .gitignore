@@ -1,2 +1,10 @@
 .vercel
 _review/
+.env
+.env.*
+*.local
+node_modules/
+.next/
+/out/
+/dist/
+CLAUDE.md
